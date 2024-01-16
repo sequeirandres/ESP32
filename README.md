@@ -6,4 +6,4 @@ Hay muchas placas ESP32 con diferentes disposiciones de pines. Aquí hay un diag
 
 ## Board
 
-[Texto del enlace](Doc/ESP32-38_PIN-DEVBOARD.png)
+![Texto del enlace](/Doc/ESP32-38_PIN-DEVBOARD.png)
