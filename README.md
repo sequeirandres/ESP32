@@ -4,3 +4,6 @@ Encuentre toda la información relevante sobre el pinout de ESP32 en una sola p�
 
 Hay muchas placas ESP32 con diferentes disposiciones de pines. Aquí hay un diagrama de pines detallado de 2 placas ESP32 diferentes. Será beneficioso conocer las funciones específicas de cada pin:
 
+## Board
+
+[Texto del enlace](Doc/ESP32-38_PIN-DEVBOARD.png)
